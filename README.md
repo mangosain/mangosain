@@ -2,11 +2,11 @@
 
 I am Manav, a passionate developer who loves turning ideas into reality. I enjoy tackling challenging projects and exploring new technologies. Whether it's building web applications, diving into data analysis, or contributing to open source.  
 
-###🔧 Technologies & Tools### 
-> Languages: Java, JavaScript, Python, Dart  
-> Frameworks: ReactJS, NextJS, Express, Bootstrap, Tailwind, Flutter  
-> Database Technologies: MySQL, Firebase, MongoDB  
-> Tools: Git, Postman  
+##🔧 Technologies & Tools##
+> **Languages:** Java, JavaScript, Python, Dart  
+> **Frameworks:** ReactJS, NextJS, Express, Bootstrap, Tailwind, Flutter  
+> **Database Technologies:** MySQL, Firebase, MongoDB  
+> **Tools:** Git, Postman  
 
 🌱 Currently Learning  
 I’m currently exploring AI/ML and Data Science  
