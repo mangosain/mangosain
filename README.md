@@ -16,8 +16,8 @@ I’m currently exploring AI/ML and Data Science
 
 💬 Let’s Connect!
 Feel free to reach out if you’d like to share ideas, or just chat about tech!
-**Linkedin:** https://www.linkedin.com/in/mangosain/
-**Portfolio:** https://mangosain.github.io/portfolio/
+**Linkedin:** https://www.linkedin.com/in/mangosain
+**Portfolio:** https://mangosain.github.io/portfolio
 
 <!--
 **mangosain/mangosain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
