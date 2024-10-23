@@ -2,19 +2,19 @@
 
 I am Manav, a passionate developer who loves turning ideas into reality. I enjoy tackling challenging projects and exploring new technologies. Whether it's building web applications, diving into data analysis, or contributing to open source.  
 
-🔧 ###Technologies & Tools###
+🔧 **Technologies & Tools**  
 > **Languages:** Java, JavaScript, Python, Dart  
 > **Frameworks:** ReactJS, NextJS, Express, Bootstrap, Tailwind, Flutter  
 > **Database Technologies:** MySQL, Firebase, MongoDB  
 > **Tools:** Git, Postman  
 
-🌱 Currently Learning  
+🌱 **Currently Learning**  
 I’m currently exploring AI/ML and Data Science  
 
-🌟 My badges  
+🌟 **My badges**  
 [![An image of @manavgosain02's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manavgosain02)](https://holopin.io/@manavgosain02)
 
-💬 Let’s Connect!  
+💬 **Let’s Connect!**  
 Feel free to reach out if you’d like to share ideas, or just chat about tech!  
 **Linkedin:** https://www.linkedin.com/in/mangosain  
 **Portfolio:** https://mangosain.github.io/portfolio  
