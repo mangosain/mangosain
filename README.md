@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Manav, a passionate developer who loves turning ideas into reality. I enjoy tackling challenging projects and exploring new technologies. Whether it's building web applications, diving into data analysis, or contributing to open source.
+I am Manav, a passionate developer who loves turning ideas into reality. I enjoy tackling challenging projects and exploring new technologies. Whether it's building web applications, diving into data analysis, or contributing to open source.
 
 🔧 Technologies & Tools
 Languages: Java, JavaScript, Python, Dart
