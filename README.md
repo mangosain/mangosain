@@ -9,7 +9,6 @@ I am Manav, a passionate developer who loves turning ideas into reality. I enjoy
 > **Tools:** Git, Postman, Node  
 
 🌱 **Currently Learning**  
-I’m currently exploring 
 > AI/ML and Data Science  
 > Docker  
 > Database Architectures  
